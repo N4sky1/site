@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "LatoRegular";
+    src: url("../font/Lato-Regular.woff") format("woff");
+    src: url("../font/Lato-Regular.woff2") format("woff2");
+}
+
+$font_Regular: 'LatoRegular';
+
+$header_back_color: rgba(16, 16, 29, 0.9);
+$order_back_color:#272733;
+$input_back_color: rgba(255, 255, 255, 0.85);
+$input_range_back_color: rgba(255, 255, 255, 0.7);
+$footer_back_color: #3D4050;
+$footer_line_color: #C3C3C3;
+$back_hidden_form_color: rgba(39, 39, 51);
+
+$text_white: #ffffff;
+$text_blue: #43ABF0;
+$text_mediumblue: #3E9CDC;
+$text_darckblue: #286690;
+$text_black: #000000;
+$text_mediumblack: #272733;
+$text_lightblack: #2A2B30;
+$text_gray: #6F6D7B;
+$text_lightgray: #BBBBBB;
+$text_hidden_form:#42A9ED;
